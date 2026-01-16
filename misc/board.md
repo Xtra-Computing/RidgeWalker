@@ -1,0 +1,8 @@
+xilinx_u250_gen3x16_xdma_3_1_202020_1 xcu250-figd2104-2L-e
+xilinx_u250_gen3x16_xdma_4_1_202210_1
+
+xilinx_u50_gen3x16_xdma_201920_3 
+xilinx_u55n_gen3x4_xdma_2_202110_1 xcu55n-fsvh2892-2L-e
+xilinx_u280_gen3x16_xdma_1_202211_1 xcu280-fsvh2892-2L-e
+xilinx_u55c_gen3x16_xdma_3_202210_1  xcu55c-fsvh2892-2L-e
+xilinx_vck5000_gen4x8_qdma_2_202220_1 xcvc1902-vsva2197-2MP-e-S
